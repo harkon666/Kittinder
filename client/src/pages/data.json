@@ -1,0 +1,44 @@
+[
+  {
+    "pics": ["/anggora.jpg"],
+    "name": "Eli",
+    "age": 2,
+    "distance": "4 miles away",
+    "text": "My cat loves play with doll"
+  },
+  {
+    "pics": ["/Kucing-British-Shorthair.jpg"],
+    "name": "Jack",
+    "age": 2,
+    "distance": "1 mile away",
+    "text": "Love laziness, and cute too"
+  },
+  {
+    "pics": ["/kucing-kampung.jpg"],
+    "name": "Helen",
+    "age": 1,
+    "distance": "3 miles away",
+    "text": "Mouse is my friend"
+  },
+  {
+    "pics": ["/oren.jpg"],
+    "name": "Zam",
+    "age": 1,
+    "distance": "3 miles away",
+    "text": "the Barbarian who break your pot."
+  },
+  {
+    "pics": ["/persia.jpeg"],
+    "name": "Jane",
+    "age": 2,
+    "distance": "2 miles away",
+    "text": "Sleep is my favorite."
+  },
+  {
+    "pics": ["/Scottish-fold-cat.jpg"],
+    "name": "Kevin",
+    "age": 2,
+    "distance": "2 miles away",
+    "text": "Doesnt want to eat any foon except royal canin."
+  }
+]
